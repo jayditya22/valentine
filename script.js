@@ -43,8 +43,9 @@ document.getElementById("yes").addEventListener("click", () => {
     </style>
 
     <div class="oval">
-      💖 Yayy :) 💖
+      💖 Phew, thank god yay:) 💖
     </div>
   `;
 });
+
 
